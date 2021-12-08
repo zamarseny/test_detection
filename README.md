@@ -6,6 +6,7 @@ For car and van detection used models:
 -resnext50 - most accurate on imagenet from available models in torchvision. Used to specify "vans" subclass from "truck" detection class.
 
 run command: 
+
 python annotate.py --video=Traffic_Monitoring_1.mp4
 
 Possible steps to improve annotations:
